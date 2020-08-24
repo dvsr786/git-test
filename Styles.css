@@ -1,0 +1,22 @@
+body
+{
+	background: black;
+	color:white;
+}
+
+a{
+	color: gray;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	background: white;
+	text-decoration: none;
+
+}
+
+h1{
+	font-family: serif;
+	font-size: 24pt;
+}
